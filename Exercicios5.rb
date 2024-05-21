@@ -1,6 +1,6 @@
 # simbolos
 
-puts :nome.object_id # Isto e' um simbolo
+puts :nome.object_id # Isto eh um simbolo
 
 puts "nome".object_id
 
