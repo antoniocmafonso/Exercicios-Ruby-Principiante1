@@ -1,4 +1,4 @@
-# Simbolos
+# simbolos
 
 puts :nome.object_id # Isto e' um simbolo
 
