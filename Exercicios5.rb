@@ -8,5 +8,5 @@ puts "nome".object_id
 
 puts :nome.object_id
 
-hashes = {nome1: "Fernanda", idade1: "43", nome2: "Livia", idade2: "11"}
+hashes = {nome1: "Fernanda", idade1: "43", nome2: "Livia", idade2: "11", nome3: "Antonio", idade3: 75}
 puts hashes
